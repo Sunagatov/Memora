@@ -10,6 +10,12 @@ Memora is a private, single-user capture and review system built around:
 
 This repository is the application source monorepo for Memora. It is not the production deployment source of truth.
 
+<p>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://img.shields.io/badge/Support_the_project-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="Support the project" width="260" height="40">
+  </a>
+</p>
+
 ## Source-Of-Truth Split
 
 This repository owns:
@@ -116,3 +122,16 @@ For day-to-day local runs, prefer Vault task entrypoints rather than raw source 
 - `Vault/apps/memora/backend`
 - `Vault/apps/memora/frontend`
 - `Vault/apps/memora/telegrambot`
+
+---
+
+## ☕ Support the project
+
+If this project helps you learn or inspires your own work, you can support its development.
+
+<p>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://img.shields.io/badge/Support_the_project-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="Support the project" width="260" height="40">
+  </a>
+</p>
+
